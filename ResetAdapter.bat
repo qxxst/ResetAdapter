@@ -1,0 +1,6 @@
+@echo off
+echo Disabling wireless adapter...
+netsh interface set interface "Ethernet 3" disabled
+timeout /t 5 >nul
+echo Enabling wireless adapter...
+netsh interface set interface "Ethernet 3" enabled
