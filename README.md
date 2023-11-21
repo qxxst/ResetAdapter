@@ -5,3 +5,5 @@ A batch script to quickly disable and re-enable your network adapter.
 2. Open `ResetAdapter.bat` in any text editor and replace `Ethernet 3` with the name of your computer's main network adapter.
 3. Save the file.
 4. Run `ResetAdapter.bat` as an administrator.
+## Credits
+<a href="https://github.com/questmatrix/ResetAdapter/graphs/contributors"><img src="https://contrib.rocks/image?repo=questmatrix/ResetAdapter"></a>
